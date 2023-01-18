@@ -4,7 +4,7 @@ OpenRec is a RecRoom server software made by recroom2016... but then abandoned f
 
 ### Q&A
  - Why remake openrec? do you have your own server?
-    Yes, I'm remaking openrec mainly because it was a decent enough old rr server, as well as the only one that was atually open source and not just putting open in the name as a buzz word meaning nothing about being open-source *cough cough*openlabs*cough cough*
+    Yes, I'm remaking openrec mainly because it was a decent enough old rr server, as well as the only one that was atually open source and not just putting open in the name as a buzz word meaning nothing about being open-source *cough cough* openlabs *cough cough*
 - is amogus sus?
     yes.
 
