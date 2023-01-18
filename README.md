@@ -18,5 +18,6 @@ Link: https://discord.com/invite/daC8QUhnFP
 If you love giving Openlabs "no monitary gain" via boosting, join their lying ass server.
 Link: https://discord.gg/openlabs
 
-If you want my original CoffeeVault, Want to play scuffed versions of 2019 and 2020, or want to atually have a good server that doesn't require boosting to test a free game, join rec noot.\n
+If you want my original CoffeeVault, Want to play scuffed versions of 2019 and 2020, or want to atually have a good server that doesn't require boosting to test a free game, join rec noot.
+
 Link: Request CoffeeMan#2926 for it due to Openlabs fucking hating me and wanting my server down.
