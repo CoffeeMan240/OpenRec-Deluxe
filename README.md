@@ -7,6 +7,7 @@ OpenRec is a RecRoom server software made by recroom2016... but then abandoned f
     
     Yes, I'm remaking openrec mainly because it was a decent enough old rr server, as well as the only one that was atually open source and not just putting open in the name as a buzz word meaning nothing about being open-source *cough cough* openlabs *cough cough*
 - is amogus sus?
+    
     yes.
 
 ---
@@ -14,9 +15,11 @@ OpenRec is a RecRoom server software made by recroom2016... but then abandoned f
 ### Getting in contact with the community
 
 If you are nostalgic for OpenRec, I recommend you joining the OpenRec Discord for original builds of this server.
+
 Link: https://discord.com/invite/daC8QUhnFP
 
 If you love giving Openlabs "no monitary gain" via boosting, join their lying ass server.
+
 Link: https://discord.gg/openlabs
 
 If you want my original CoffeeVault, Want to play scuffed versions of 2019 and 2020, or want to atually have a good server that doesn't require boosting to test a free game, join rec noot.
